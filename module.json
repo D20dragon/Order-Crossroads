@@ -1,0 +1,26 @@
+{
+  "id": "order-crossroads",
+  "title": "Order Crossroads",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Order-Crossroads",
+      "label": "Order Crossroads",
+      "path": "packs/Order-Crossroads",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
