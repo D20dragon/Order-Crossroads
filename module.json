@@ -2,8 +2,8 @@
   "id": "order-crossroads",
   "title": "Order Crossroads",
   "version": "1.0.0",
-  "manifest": "",
-"download": "Посилання на ZIP файл формату .zip",
+  "manifest": "https://raw.githubusercontent.com/D20dragon/Order-Crossroads/main/module.json",
+"download": "https://github.com/D20dragon/Order-Crossroads/releases/download/1.0.0/order-crossroads.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
