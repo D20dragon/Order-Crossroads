@@ -2,6 +2,8 @@
   "id": "order-crossroads",
   "title": "Order Crossroads",
   "version": "1.0.0",
+  "manifest": "",
+"download": "Посилання на ZIP файл формату .zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
